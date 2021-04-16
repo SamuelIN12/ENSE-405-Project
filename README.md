@@ -36,38 +36,9 @@ Information will be gotten online for the audience.
 What
 The major constraint that I envision is time. Time is needed to achieve the desirable features for this application. Considering the semester I am in, I have limited time, as my time is spread across other class projects and the capstone.
 
-# Project documentation
+## Video Documentation
+- [Project Vlog](https://www.youtube.com/watch?v=YasJDiikwVU)
 
-1. Community Research & Understanding
-Technology Steward Activity
-Community Characteristics Orientation
-
-2. Drafting an Emerging Picture & Project Management
-
-Drafting an emerging picture
-Business Case
-Stakeholder Analysis
-Project Scope Statement 
-Project Requirements
-Kanban 
-
-3. Software Designs
-
-Application Workflows
-Lo-Fi Diagram
-Use Case Diagram
-4. MVP Check-Ins and Progress Vlog/Slides
-
-MVP Progress #1 Slides 
-MVP Progress Vlog 1
-MVP Check-in Slides #1
-MVP Status Report #1
-MVP Status Report #2
-
-5. Project Closing
-
-Project report-out & lesson learned 
-Project commercial 
-Code 
-
+## License 
+Creative Commons Share & Share Alike (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/.
 
