@@ -39,6 +39,35 @@ The major constraint that I envision is time. Time is needed to achieve the desi
 ## Video Documentation
 - [Project Vlog](https://www.youtube.com/watch?v=YasJDiikwVU)
 
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Mertric/Sustainable-Development-.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Install Ionic Framework CLI
+   ```sh
+   npm install -g @ionic/cli
+   ```
+4. Install Angular CLI
+   ```sh
+   npm install -g @angular/cli
+   ```
+5. In Visual Studio Code or any other source code editor change directory to project folder
+6. Start up the application
+   ```sh
+   ionic serve
+   ```
+7. Open two new command lines and change directory to src/node/src
+8. Start up backend services
+   ```sh
+   npm run start-w
+   ```
+
 ## License 
 Creative Commons Share & Share Alike (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/.
 
