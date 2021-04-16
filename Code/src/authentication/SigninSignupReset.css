@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+}
+
+button {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background: #603bbb;
+  cursor: pointer;
+}
+
+
+.signin .loginContainer,
+.signup .loginContainer,
+.resetPassword .loginContainer
+ {
+  padding: 60px;
+  margin: auto;
+  width: 100%;
+  max-width: 520px;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: radial-gradient(
+    ellipse at left bottom,
+    rgb(12, 13, 20) 0%,
+    rgba(10, 6, 17, 0.9) 59%,
+    rgba(3, 5, 17, 0.9) 100%
+  );
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+}
+
+.signup .name,
+.signin .name,
+.resetPassword .name{
+  text-align: center;
+  color: whitesmoke;
+  font-size: 30px;
+}
+
+.signin .loginContainer label,
+.signup .loginContainer label,
+.resetPassword .loginContainer label {
+  color: white;
+  margin: 14px 0;
+  display: block;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.signup .loginContainer input,
+.signin .loginContainer input,
+.resetPassword .loginContainer input{
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 19px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.signin .loginContainer .btnContainer,
+.signup .loginContainer .btnContainer,
+.resetPassword .loginContainer .btnContainer {
+  width: 100%;
+  padding: 24px 0;
+}
+
+.signup .loginContainer .btnContainer p,
+.signin .loginContainer .btnContainer p,
+.resetPassword .loginContainer .btnContainer p{
+  margin: 14px 0 0 0;
+  text-align: right;
+  color: #fff;
+}
+
+.signin .loginContainer .btnContainer p span,
+.signup .loginContainer .btnContainer p span, 
+.resetPassword .loginContainer .btnContainer p span {
+  color: yellow;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-left: 5px;
+  cursor: pointer;
+  transition: all 400ms ease-in-out;
+}
+
+.signup .loginContainer .btnContainer p span:hover,
+.signin .loginContainer .btnContainer p span:hover,
+.resetPassword .loginContainer .btnContainer p span:hover
+{
+  color: red;
+}
+
+.signup .loginContainer .errorMsg,
+.signin .loginContainer .errorMsg,
+.resetPassword .loginContainer .errorMsg {
+  color: red;
+  font-size: 16px;
+}
