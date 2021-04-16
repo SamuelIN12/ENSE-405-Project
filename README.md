@@ -1,49 +1,73 @@
 # ENSE-405-Project
-Project GitHub
-https://github.com/SamuelIN12/ENSE-405-Project
 
-Project idea/background & business need/opportunity
+Project GitHub
+
+# Project idea/background & business need/opportunity
 Here, you should discuss information that will help the viewer (the instructor, your classmates, and the general public) understand the context and background history regarding your project idea (your "why" #simonsinek #goldencircle). This discussion should assume that viewers are not well-versed (knowledgeable) regarding the background of the project or project area. You should also try to dive into the business need (if any), problem, or opportunity/innovation that your team's project idea will solve/introduce into the world
 
-Aim to build a website that creates a diet plan that is tailored to people with certain health issues, as it correlates with their medications. 
+Aim to build a website that creates a diet plan that is tailored to people with certain health issues, as it correlates with their medications. It will provide the necessary information needed for patients to navigate through healthy dieting and mental wellness. 
 
-This website will be created to support the UN Goal 3, which is Good health and Well-being. 
 
+For this MVP, this project aims to be a tool for knowledge dissemination in the community, that patients can apply while navigating through healthy dieting and maintaining mental wellness
+
+This website will be created to support UN Goal 3, which is Good health and Well-being. 
 3.4 By 2030, reduce by one-third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.
 
-3.8 Achieve universal health coverage, including financial risk protection, access to quality essential health-care services, and access to safe, effective, quality, and affordable essential medicines and vaccines for all.
+3.8 Achieve universal health coverage, including financial risk protection, access to quality essential healthcare services, and access to safe, effective, quality, and affordable essential medicines and vaccines for all.
 
-Reason
-Before we start creating something, we need to know why we are creating it. We create for many reasons, such as:
 
-To solve a problem (This is the engineer's bread and butter)
-Show someone our thinking
-Express our ideas, feelings, or interpretations
-Interpret information in a new way
-Etc.
-So think about and discuss your team's reason to create?
+# Reason
+There is currently no platform that houses a community of health experts that cater to patients living with specific health conditions and the stigma of it, by providing them with the right knowledge about dieting that is specific to their health condition.
 
-Impact
-Sometimes we can start with the impact we want to create - how will our project and the work we do on our project change our current reality, and how will we achieve this new reality, e.g. learning new tech, using class notes from Tim's classes...haha, etc.)? This helps us think more broadly while we are creating. To help discuss your project's impact, [fill in the details] and discuss the following statement in your vlog
+This project is also giving me the opportunity to express my ideas and implement a solution that I feel is very necessary.
 
-When we are done [our current reality] will now be [our new reality] so we think we need to [action step]
 
-Who
-You will also "flesh" this information out in-process and associated documentation this term, but it's also good to reiterate it here (to either help you get started or help you iteratively refine things). When we know who we are creating for, our audience, our work is more meaningful, relevant, and appropriate. So think about and discuss:
+# Impact
+When I am done our current reality of just having one space of healthy dieting and mental well-being will now be our new reality of a community of health experts coming together in the community to provide essential health services to those in need of it, by providing the right knowledge, and so I think I need to investigate technology inventory more, to know what is available and how it can be improved upon.
 
-Who is your audience?
-Whose opinion matters?
-Who do you want to reach with your work?
+
+# Who
+The audience for this application is mainly health experts(dieticians and therapist) and people with specific health conditions who need to live better and healthier
+The opinion of the health experts matter, and that of the patients, as they are the ones who will be using the application.
+I would love to reach health experts whose drive is to see to the good health and well-being of people, most especially those battling specific health conditions.
 Also, know/discuss where your audience is?
-In the same room, city, province, across the globe?
-Where do they get their information? (paper, digital, opinion, peer-reviewed, etc.)
+My audience is those across the globe, considering this being an online application.
+Information will be gotten online for the audience.
 What
-Think about and discuss what type of constraints your team envisions, e.g. knowledge, technology, access to customers, etc? Constraints are important to know as they enable us to push ourselves to think even more creatively To inspire better thinking, we have to become more resourceful and work within limitations - what are the envisioned constraints and limitations?
+The major constraint that I envision is time. Time is needed to achieve the desirable features for this application. Considering the semester I am in, I have limited time, as my time is spread across other class projects and the capstone.
 
-Project documentation
-Along with providing documents in your GitHub, I would also like for you to post them here. I realize this is a duplication of efforts. However, it will help me mark and keep track of things
+# Project documentation
 
-Scrum comments
-Here's were Tim will put scrum comments and project check-in knowledge
+1. Community Research & Understanding
+Technology Steward Activity
+Community Characteristics Orientation
+
+2. Drafting an Emerging Picture & Project Management
+
+Drafting an emerging picture
+Business Case
+Stakeholder Analysis
+Project Scope Statement 
+Project Requirements
+Kanban 
+
+3. Software Designs
+
+Application Workflows
+Lo-Fi Diagram
+Use Case Diagram
+4. MVP Check-Ins and Progress Vlog/Slides
+
+MVP Progress #1 Slides 
+MVP Progress Vlog 1
+MVP Check-in Slides #1
+MVP Status Report #1
+MVP Status Report #2
+
+5. Project Closing
+
+Project report-out & lesson learned 
+Project commercial 
+Code 
 
 
