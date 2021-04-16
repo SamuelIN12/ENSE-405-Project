@@ -49,7 +49,6 @@ The major constraint that I envision is time. Time is needed to achieve the desi
    ```sh
    npm install
    ```
-   ```
 3. In Visual Studio Code change the  directory to project folder
 
 4. Open folder in Visual Studio Code  
